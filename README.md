@@ -18,19 +18,19 @@ To run the app locally, follow these steps:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your_username/bmi_calculator.git
+   git clone (https://github.com/Al-Mansori/BMI-Calculator-App.git)
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd bmi_calculator
+   cd BMI-Calculator-App
    ```
 
 3. Get all the remaining Files:
 
    ```
-   flutter create bmi_calculator
+   flutter create BMI-Calculator-App
    ```
 
 
