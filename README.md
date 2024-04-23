@@ -9,7 +9,7 @@ The BMI Calculator app allows users to calculate their Body Mass Index (BMI) by 
 
 ## Screenshots
 
-![BMI Calculator App](https://example.com/path/to/your/gif.gif)
+![BMI-Calculator-App](bmi_calculator_app.gif)
 
 ## Installation
 
